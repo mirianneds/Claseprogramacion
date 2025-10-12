@@ -5,7 +5,7 @@ public class MainMethod {
         despedir();
     }
 
-   public static void saludar(String nombre ){
+   public static void saludar(String data){
         System.out.println("Enhorabuena "+data+" has llamado a tu primer metdo");
     }
 
